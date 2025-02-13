@@ -1,0 +1,381 @@
+[
+  {
+    "courseId": "3a9f3d6c-c391-4b1c-9c3d-6c3f3d6c3f3d",
+    "teacherId": "user_7kFh92JkCpQw3N8M5L4xRzVtYs",
+    "teacherName": "Jane Smith",
+    "title": "Mastering English Communication",
+    "description": "Boost your English communication skills with this interactive course.",
+    "category": "English Language Learning",
+    "image": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg",
+    "price": 2599,
+    "level": "Intermediate",
+    "status": "Published",
+    "enrollments": [
+      { "userId": "user_2ntu96pUCljUV2T9W0AThzjacQB" },
+      { "userId": "user_9xWp45MnKjL8vRt2Hs6BqDcEy" }
+    ],
+    "sections": [
+      {
+        "sectionId": "2f9d1e8b-5a3c-4b7f-9e6d-8c2a1f0b3d5e",
+        "sectionTitle": "Getting Started",
+        "sectionDescription": "Introduction to the course and essential tips for learning English.",
+        "chapters": [
+          {
+            "chapterId": "a1b2c3d4-e5f6-g7h8-i9j0-k1l2m3n4o5p6",
+            "type": "Video",
+            "title": "Welcome to English Learning",
+            "content": "https://example.com/videos/welcome-english.mp4",
+            "video": "https://example.com/videos/welcome-english.mp4",
+            "comments": [
+              {
+                "commentId": "1a2b3c4d-5e6f-7g8h-9i0j-1k2l3m4n5o6p",
+                "userId": "janifer.wilson@hotmail.com",
+                "text": "Great start! Looking forward to learning.",
+                "timestamp": "2024-03-10T09:15:00Z"
+              }
+            ]
+          },
+          {
+            "chapterId": "b2c3d4e5-f6g7-h8i9-j0k1-l2m3n4o5p6q7",
+            "type": "Text",
+            "title": "Why Learn English?",
+            "content": "English is a global language that opens doors to new opportunities and connections worldwide...",
+            "comments": []
+          },
+          {
+            "chapterId": "c3d4e5f6-g7h8-i9j0-k1l2-m3n4o5p6q7r8",
+            "type": "Quiz",
+            "title": "Introduction Quiz",
+            "content": "1. Why is English considered a global language?\n2. Name three benefits of learning English.",
+            "comments": []
+          }
+        ]
+      },
+      {
+        "sectionId": "3g0e2f9c-6d4e-5a7f-8b9g-1h2i3j4k5l6m",
+        "sectionTitle": "Grammar Essentials",
+        "sectionDescription": "Understand the fundamentals of English grammar.",
+        "chapters": [
+          {
+            "chapterId": "d4e5f6g7-h8i9-j0k1-l2m3-n4o5p6q7r8s9",
+            "type": "Video",
+            "title": "Variables and Data Types",
+            "content": "https://example.com/videos/basic-grammar.mp4",
+            "video": "https://example.com/videos/basic-grammar.mp4",
+            "comments": []
+          },
+          {
+            "chapterId": "e5f6g7h8-i9j0-k1l2-m3n4-o5p6q7r8s9t0",
+            "type": "Text",
+            "title": "Common Grammar Mistakes",
+            "content": "Learn how to avoid common grammar pitfalls, such as subject-verb agreement and misplaced modifiers...",
+            "comments": []
+          },
+          {
+            "chapterId": "f6g7h8i9-j0k1-l2m3-n4o5-p6q7r8s9t0u1",
+            "type": "Quiz",
+            "title": "Grammar Quiz",
+            "content": "1. Correct the following sentence: 'He go to school every day.'\n2. What is a noun?\n3. Define an adjective.",
+            "comments": []
+          }
+        ]
+      },
+      {
+        "sectionId": "4h1f3g0d-7e5f-6b8g-9c0h-2i3j4k5l6m7n",
+        "sectionTitle": "Practical Speaking",
+        "sectionDescription": "Enhance your speaking skills through practice.",
+        "chapters": [
+          {
+            "chapterId": "g7h8i9j0-k1l2-m3n4-o5p6-q7r8s9t0u1v2",
+            "type": "Video",
+            "title": "Building Confidence in Speaking",
+            "content": "https://example.com/videos/speaking-confidence.mp4",
+            "video": "https://example.com/videos/speaking-confidence.mp4",
+            "comments": []
+          },
+          {
+            "chapterId": "h8i9j0k1-l2m3-n4o5-p6q7-r8s9t0u1v2w3",
+            "type": "Text",
+            "title": "Common Speaking Phrases",
+            "content": "Discover useful phrases and expressions for everyday conversations...",
+            "comments": []
+          },
+          {
+            "chapterId": "i9j0k1l2-m3n4-o5p6-q7r8-s9t0u1v2w3x4",
+            "type": "Quiz",
+            "title": "Speaking Skills Quiz",
+            "content": "1. How do you introduce yourself in English?\n2. What is a polite way to ask for help?\n3. Provide examples of formal and informal greetings.",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "8b4f7d9c-4b1c-4b1c-8b4f-7d9c8b4f7d9c",
+    "teacherId": "user_4mNj68RtPvXw2Ky9Qc7HbSdAf",
+    "teacherName": "Anna Kowalska",
+    "title": "Mastering Polish Language",
+    "description": "Unlock your potential with this comprehensive Polish language course.",
+    "category": "Polish Language Learning",
+    "image": "https://images.pexels.com/photos/5611/sky-blue-flag-poland.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "price": 1999,
+    "level": "Intermediate",
+    "status": "Published",
+    "enrollments": [
+      { "userId": "user_2ntu96pUCljUV2T9W0AThzjacQB" },
+      { "userId": "user_5vBn23WsLkMp7Jh4Gt8FxYcRz" }
+    ],
+    "sections": [
+      {
+        "sectionId": "1a7b3c5d-9e2f-4g6h-8i0j-2k4l6m8n0p1q",
+        "sectionTitle": "Polish Basics",
+        "sectionDescription": "Learn fundamental Polish phrases and pronunciation.",
+        "chapters": [
+          {
+            "chapterId": "c3d4e5f6-g7h8-i9j0-k1l2-m3n4o5p6q7r8",
+            "type": "Video",
+            "title": "Introduction to Polish",
+            "content": "https://www.youtube.com/embed/gCbiwIBDlok",
+            "videoLength": 1200,
+            "comments": [],
+            "videoUrl": "https://www.youtube.com/embed/gCbiwIBDlok",
+            "videoUniqueId": "vid_004",
+            "videoType": "youtube"
+          },
+          {
+            "chapterId": "d4e5f6g7-h8i9-j0k1-l2m3-n4o5p6q7r8s9",
+            "type": "Quiz",
+            "title": "Polish Basics Quiz",
+            "content": "1. How do you say 'hello' in Polish?\n2. What is the Polish word for 'thank you'?",
+            "comments": []
+          },
+          {
+            "chapterId": "e5f6g7h8-i9j0-k1l2-m3n4-o5p6q7r8s9t0",
+            "type": "Text",
+            "title": "Polish Alphabet and Pronunciation",
+            "content": "Polish has 32 letters, and its pronunciation can differ significantly from English...",
+            "comments": []
+          }
+        ]
+      },
+      {
+        "sectionId": "2b8c4d6e-0f3g-5h7i-9j1k-3l5m7n9p1q3r",
+        "sectionTitle": "Everyday Conversations",
+        "sectionDescription": "Practice essential Polish phrases for daily use.",
+        "chapters": [
+          {
+            "chapterId": "f6g7h8i9-j0k1-l2m3-n4o5-p6q7r8s9t0u1",
+            "type": "Video",
+            "title": "Common Polish Phrases",
+            "content": "https://example.com/videos/common-polish-phrases.mp4",
+            "videoLength": 1500,
+            "comments": [],
+            "videoUrl": "https://example.com/videos/common-polish-phrases.mp4",
+            "videoUniqueId": "vid_005",
+            "videoType": "dash"
+          },
+          {
+            "chapterId": "g7h8i9j0-k1l2-m3n4-o5p6-q7r8s9t0u1v2",
+            "type": "Text",
+            "title": "Polish Greetings and Introductions",
+            "content": "Learn how to greet someone, introduce yourself, and exchange pleasantries in Polish...",
+            "comments": []
+          },
+          {
+            "chapterId": "h8i9j0k1-l2m3-n4o5-p6q7-r8s9t0u1v2w3",
+            "type": "Quiz",
+            "title": "Conversational Polish Quiz",
+            "content": "1. Translate 'Good morning' to Polish.\n2. How do you introduce yourself in Polish?",
+            "comments": []
+          }
+        ]
+      },
+      {
+        "sectionId": "3c9d5e7f-1g4h-6i8j-0k2l-4m6n8p0q2r4s",
+        "sectionTitle": "Polish Grammar Essentials",
+        "sectionDescription": "Master key grammar concepts for Polish communication.",
+        "chapters": [
+          {
+            "chapterId": "i9j0k1l2-m3n4-o5p6-q7r8-s9t0u1v2w3x4",
+            "type": "Video",
+            "title": "Basic Polish Grammar",
+            "content": "https://example.com/videos/polish-grammar.mp4",
+            "videoLength": 1800,
+            "comments": [],
+            "videoUrl": "https://example.com/videos/polish-grammar.mp4",
+            "videoUniqueId": "vid_006",
+            "videoType": "mp4"
+          },
+          {
+            "chapterId": "j0k1l2m3-n4o5-p6q7-r8s9-t0u1v2w3x4y5",
+            "type": "Text",
+            "title": "Understanding Polish Cases",
+            "content": "Polish is a highly inflected language, and understanding cases is essential for correct communication...",
+            "comments": []
+          },
+          {
+            "chapterId": "k1l2m3n4-o5p6-q7r8-s9t0-u1v2w3x4y5z6",
+            "type": "Quiz",
+            "title": "Polish Grammar Quiz",
+            "content": "1. What is the instrumental case used for?\n2. How do you conjugate the verb 'to be' in Polish?",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "c5d6e7f8-g9h0-i1j2-k3l4-m5n6o7p8q9r0",
+    "teacherId": "user_7kFh92JkCpQw3N8M5L4xRzVtYs",
+    "teacherName": "Hans Muller",
+    "title": "Mastering German Language",
+    "description": "Learn to speak, read, and write in German with this comprehensive course.",
+    "category": "German Language Learning",
+    "image": "https://images.pexels.com/photos/1128416/pexels-photo-1128416.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "price": 2299,
+    "level": "Beginner",
+    "status": "Published",
+    "enrollments": [
+      { "userId": "user_6tHm89QwNpKj3Fx5Vy2RdLcBs" },
+      { "userId": "user_9xWp45MnKjL8vRt2Hs6BqDcEy" }
+    ],
+    "sections": [
+      {
+        "sectionId": "3e5f7g9h-1i3j-5k7l-9m1n-3o5p7q9r1s3t",
+        "sectionTitle": "German Basics",
+        "sectionDescription": "Learn essential German phrases and pronunciation.",
+        "chapters": [
+          {
+            "chapterId": "e5f6g7h8-i9j0-k1l2-m3n4-o5p6q7r8s9t0",
+            "type": "Video",
+            "title": "Introduction to German",
+            "content": "https://example.com/videos/german-intro.mp4",
+            "video": "https://example.com/videos/german-intro.mp4",
+            "comments": []
+          },
+          {
+            "chapterId": "f6g7h8i9-j0k1-l2m3-n4o5-p6q7r8s9t0u1",
+            "type": "Quiz",
+            "title": "German Basics Quiz",
+            "content": "1. How do you say 'hello' in German?\n2. What is the German word for 'thank you'?",
+            "comments": []
+          },
+          {
+            "chapterId": "g7h8i9j0-k1l2-m3n4-o5p6-q7r8s9t0u1v2",
+            "type": "Text",
+            "title": "German Alphabet and Pronunciation",
+            "content": "Learn the 26 letters of the German alphabet and how to pronounce them...",
+            "comments": []
+          }
+        ]
+      },
+      {
+        "sectionId": "4f6g8h0i-2j4k-6l8m-0n2p-4q6r8s0t2u4v",
+        "sectionTitle": "Everyday German",
+        "sectionDescription": "Master key phrases for daily interactions.",
+        "chapters": [
+          {
+            "chapterId": "h8i9j0k1-l2m3-n4o5-p6q7-r8s9t0u1v2w3",
+            "type": "Video",
+            "title": "Common German Phrases",
+            "content": "https://example.com/videos/common-german-phrases.mp4",
+            "video": "https://example.com/videos/common-german-phrases.mp4",
+            "comments": []
+          },
+          {
+            "chapterId": "i9j0k1l2-m3n4-o5p6-q7r8-s9t0u1v2w3x4",
+            "type": "Text",
+            "title": "Greetings and Introductions",
+            "content": "Learn to greet someone, introduce yourself, and ask basic questions in German...",
+            "comments": []
+          },
+          {
+            "chapterId": "j0k1l2m3-n4o5-p6q7-r8s9-t0u1v2w3x4y5",
+            "type": "Quiz",
+            "title": "German Greetings Quiz",
+            "content": "1. How do you say 'Good morning' in German?\n2. What is the German phrase for 'My name is...'?",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "d4e5f6g7-h8i9-j0k1-l2m3-n4o5p6q7r8s9",
+    "teacherId": "user_3rTg67LmZnXc4Vb8Wd0JyUhEq",
+    "teacherName": "Carlos Rodríguez",
+    "title": "Spanish for Beginners",
+    "description": "Learn to speak, read, and write in Spanish with this engaging course.",
+    "category": "Spanish Language Learning",
+    "image": "https://images.pexels.com/photos/54097/spain-flag-flutter-spanish-54097.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "price": 1899,
+    "level": "Beginner",
+    "status": "Published",
+    "enrollments": [
+      { "userId": "user_6tHm89QwNpKj3Fx5Vy2RdLcBs" },
+      { "userId": "user_9xWp45MnKjL8vRt2Hs6BqDcEy" }
+    ],
+    "sections": [
+      {
+        "sectionId": "4u6v8w0x-2y4z-6a8b-0c2d-4e6f8g0h2i4j",
+        "sectionTitle": "Introduction to Spanish",
+        "sectionDescription": "Learn basic Spanish phrases and pronunciation.",
+        "chapters": [
+          {
+            "chapterId": "g7h8i9j0-k1l2-m3n4-o5p6-q7r8s9t0u1v2",
+            "type": "Video",
+            "title": "What is Spanish?",
+            "content": "https://example.com/videos/intro-to-spanish.mp4",
+            "video": "https://example.com/videos/intro-to-spanish.mp4",
+            "comments": []
+          },
+          {
+            "chapterId": "h8i9j0k1-l2m3-n4o5-p6q7-r8s9t0u1v2w3",
+            "type": "Quiz",
+            "title": "Spanish Basics Quiz",
+            "content": "1. How do you say 'hello' in Spanish?\n2. What is the Spanish word for 'thank you'?\n3. How do you ask 'How are you?' in Spanish?",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "courseId": "e5f6g7h8-i9j0-k1l2-m3n4-o5p6q7r8s9t0",
+    "teacherId": "user_7kFh92JkCpQw3N8M5L4xRzVtYs",
+    "teacherName": "Sophie Dubois",
+    "title": "Advanced French: Mastering Fluency",
+    "description": "Refine your French language skills with advanced grammar, idiomatic expressions, and cultural insights.",
+    "category": "French Language Learning",
+    "image": "https://images.pexels.com/photos/29945012/pexels-photo-29945012.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "price": 11999,
+    "level": "Advanced",
+    "status": "Published",
+    "enrollments": [{ "userId": "user_6tHm89QwNpKj3Fx5Vy2RdLcBs" }],
+    "sections": [
+      {
+        "sectionId": "5k7l9m1n-3o5p-7q9r-1s3t-5u7v9w1x3y5z",
+        "sectionTitle": "Advanced Grammar and Syntax",
+        "sectionDescription": "Master complex grammatical structures and sentence formations.",
+        "chapters": [
+          {
+            "chapterId": "i9j0k1l2-m3n4-o5p6-q7r8-s9t0u1v2w3x4",
+            "type": "Video",
+            "title": "Mastering Subjunctive Mood",
+            "content": "https://example.com/videos/mastering-subjunctive.mp4",
+            "video": "https://example.com/videos/mastering-subjunctive.mp4",
+            "comments": []
+          },
+          {
+            "chapterId": "j0k1l2m3-n4o5-p6q7-r8s9-t0u1v2w3x4y5",
+            "type": "Text",
+            "title": "Complex Sentence Structures",
+            "content": "Learn how to use complex sentences, relative clauses, and conjunctions in French...",
+            "comments": []
+          }
+        ]
+      }
+    ]
+  }
+]
